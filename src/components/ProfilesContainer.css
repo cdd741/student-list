@@ -1,0 +1,18 @@
+ul {
+  list-style-type: none;
+}
+
+.Profiles_Container {
+  border-radius: 10px;
+  height: 700px;
+  width: 55%;
+  margin: 0 auto;
+  overflow: auto;
+  background-color: white;
+  overflow-x: hidden;
+}
+
+.SearchBar {
+  margin-left: 5px;
+  margin-right: 5px;
+}

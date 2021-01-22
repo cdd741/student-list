@@ -1,0 +1,51 @@
+ul {
+  list-style-type: none;
+}
+
+.student {
+  border-bottom: solid 1px;
+  border-color: #eee;
+}
+
+.student_info {
+  text-align: left;
+}
+
+.add-tag-input {
+  text-align: left;
+}
+
+.expand_button {
+  text-align: right;
+}
+
+.expand-btn {
+  margin-right: 5px;
+  margin-top: 20px;
+}
+
+.student_grid {
+  width: 100%;
+}
+
+.profile_image {
+  margin-top: 30px;
+  position: relative;
+  vertical-align: middle;
+  border-radius: 50%;
+  border-color: #eee;
+  border-width: 2px;
+  border-style: solid;
+  width: 7.7rem;
+  justify-content: center;
+  align-items: center;
+}
+
+.student_tags {
+  padding: 0;
+  list-style-type: none;
+}
+
+.chip-label {
+  margin: 0.1rem;
+}
